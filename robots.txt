@@ -10,6 +10,7 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-
 Sitemap: https://tiancai.fun/sitemap.xml
-Sitemap: http://tiancai.fun/baidusitemap.xml
+Sitemap: https://www.tiancai.fun/sitemap.xml
+Sitemap: https://tiancai.fun/baidusitemap.xml
+Sitemap: https://www.tiancai.fun/baidusitemap.xml
