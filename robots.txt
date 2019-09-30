@@ -9,3 +9,7 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+
+
+Sitemap: https://tiancai.fun/sitemap.xml
+Sitemap: http://tiancai.fun/baidusitemap.xml
